@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roseApt/static/css/main.11f2dfc0.css",
+    "main.js": "/roseApt/static/js/main.d5c583c1.js",
+    "static/js/453.ad6eb26e.chunk.js": "/roseApt/static/js/453.ad6eb26e.chunk.js",
+    "static/media/apt.svg": "/roseApt/static/media/apt.d50f9f363b77221f8601e648aab788aa.svg",
+    "index.html": "/roseApt/index.html",
+    "main.11f2dfc0.css.map": "/roseApt/static/css/main.11f2dfc0.css.map",
+    "main.d5c583c1.js.map": "/roseApt/static/js/main.d5c583c1.js.map",
+    "453.ad6eb26e.chunk.js.map": "/roseApt/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f2dfc0.css",
+    "static/js/main.d5c583c1.js"
+  ]
+}
